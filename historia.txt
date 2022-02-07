@@ -1,4 +1,5 @@
 Este es la historia de Juan Carlos.
-Juan Carlos está aprendiendo GitHub por comandos.
+Juan Carlos está aprendiendo GitHub por comandos en Platzi.
+Viviendo en Lima.
 
 Hoy comentaremos su historia.
