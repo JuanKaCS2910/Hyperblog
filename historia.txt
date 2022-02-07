@@ -1,0 +1,4 @@
+Este es la historia de Juan Carlos.
+Juan Carlos está aprendiendo GitHub por comandos.
+
+Hoy comentaremos su historia.
