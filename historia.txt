@@ -3,3 +3,5 @@ Juan Carlos está aprendiendo GitHub por comandos en Platzi.
 Viviendo en Lima.
 
 Hoy comentaremos su historia.
+
+Desea estudiar mayormente en la noche, pero le gana la flojera.
