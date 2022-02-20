@@ -1,6 +1,7 @@
 body{
     text-align: center;
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-family:'Courier New', Courier, monospace;
     color:#333;
     font-size: 25px;
@@ -18,6 +19,8 @@ body{
 .container h1{
     font-size: 50px;
 =======
+=======
+>>>>>>> cabecera
     font-family:Arial, Helvetica, sans-serif;
     color:#333;
     font-size: 16px;
@@ -30,7 +33,10 @@ body{
     font-weight: bold;
     margin:0;
     padding: 0.5em;
+<<<<<<< HEAD
     border-radius: 1em;
+=======
+>>>>>>> cabecera
 }
 
 #cabecera #tagline
@@ -54,5 +60,8 @@ body{
 
 #post{
 
+<<<<<<< HEAD
+>>>>>>> cabecera
+=======
 >>>>>>> cabecera
 }
