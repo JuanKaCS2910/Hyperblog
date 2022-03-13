@@ -1,7 +1,7 @@
 Este es la historia de Juan Carlos.
 Juan Carlos está aprendiendo GitHub por comandos en Platzi.
 Viviendo en Lima.
-Segundo Marcelo nació en Chepen.
-Hoy comentaremos su vida y obra maestra.
+Segundo Marcelo nació en Chepen y ahora le hemos dado permiso al código para que modifique.
+Hoy comentaremos un poco de su vida y obra maestra.
 
 Desea estudiar mayormente en la noche, pero le gana la flojera.
